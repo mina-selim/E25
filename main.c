@@ -1,4 +1,4 @@
-#include "add.h"
+
 #include "add.h"
 void main(){
 	int arr[test];
